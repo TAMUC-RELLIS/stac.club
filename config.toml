@@ -65,3 +65,7 @@ paginate     = 10
       identifier = "ctf"
       name       = "CTF"
       url        = "https://ctf.stac.club/"
+
+  [[params.social]]
+    name = "instagram"
+    url  = "https://instagram.com/staccxrellis"
