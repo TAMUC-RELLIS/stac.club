@@ -1,9 +1,5 @@
-node_modules/
-dist/
-site/data/webpack.json
-/npm-debug.log
-yarn-error.log
-.netlify/
+# Local Netlify folder
+.netlify
 
-cypress/videos
-cypress/screenshots
+# Package Files
+node_modules/
