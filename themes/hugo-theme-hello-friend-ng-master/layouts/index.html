@@ -1,0 +1,27 @@
+{{ define "body" }}
+    <body class="{{ if .Site.Params.backgroundImage }} background-image" style="background-image: url('{{ .Site.Params.backgroundImage }}');" {{ else }}"{{ end }}>
+{{ end }}
+
+{{ define "main" }}
+    <main aria-role="main">
+        <div>
+            {{ if .Site.Params.Portrait.Path }}
+            <img src="{{ .Site.Params.Portrait.Path }}" class="circle" alt="{{ .Site.Params.Portrait.Alt }}" style="max-width:{{ .Site.Params.Portrait.MaxWidth }}" />
+            {{ end }}
+            <h1>{{ .Site.Title }}</h1>
+            <center><img src="/images/OFFICIAL_green_logo.PNG" alt="" style="height: 25%; width: 25%;"></center>
+
+            
+            
+            {{ partial "subtitle.html" . }}
+
+            <h2 style="visibility: hidden;">This is a bare-bones Hugo project that has everything you need to quickly deploy it to Netlify</h2>
+
+            {{- with .Site.Params.social }}
+                <div>
+                    {{ partial "social-icons.html" . }}
+                </div>
+            {{- end }}
+        </div>
+    </main>
+{{ end }}
