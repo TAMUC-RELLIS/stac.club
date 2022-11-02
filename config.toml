@@ -27,6 +27,10 @@ paginate     = 10
   keywords = "homepage, blog"
   images = [""]
 
+  [[params.social]]
+    name = "instagram"
+    url  = "https://instagram.com/staccxrellis"
+
 [params.logo]
     logoMark     = ">"
     logoText     = "$ cd STACC/"
@@ -64,8 +68,8 @@ paginate     = 10
     [[menu.main]]
       identifier = "ctf"
       name       = "CTF"
-      url        = "https://ctf.stac.club/"
+      url        = "ctf/"
 
-  [[params.social]]
-    name = "instagram"
-    url  = "https://instagram.com/staccxrellis"
+# Allows for html tag rendering in markdown files
+[markup.goldmark.renderer]
+  unsafe = true
