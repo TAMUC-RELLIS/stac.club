@@ -8,6 +8,10 @@ aliases = ["about-us","about-stacc"]
 
 # We are The Science Technology And Computing Club at RELLIS!
 {{< image src="/images/green_on_darkergrey.png" alt="stacc logo" position="center">}}
+## Our mission statement:
+The Science Technology and Computing Club (STACC) will indiscriminately provide a resource for student members within the TAMU System RELLIS Campus to develop social interaction confidence, basic through advanced computer knowledge and information technology expertise.
+
+-----------------------------------------------------------------------------------------------------
 
 We are focused on creating a place for students to collaborate and improve in whatever field they want to pursue in the industry. From resume workshops, guest speakers, and even mock interviews, we aim to provide a diverse array of meetings and resources to achieve this goal. 
 
