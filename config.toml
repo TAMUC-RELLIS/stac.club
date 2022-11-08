@@ -1,5 +1,5 @@
 baseURL = 'http://hugo-quickstart-template.netlify.com'
-title        = "STACC"
+title        = "The Science And Technology Club"
 languageCode = "en-us"
 theme        = "hugo-theme-hello-friend-ng-master"
 paginate     = 10
@@ -11,7 +11,7 @@ paginate     = 10
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "Our goal at STACC is to break down barriers for students who would like to be invlolved in the tech industry. We provide guidance through experienced professors and students, along with events that showcase important skills."
+  homeSubtitle = "STACC breaks down barriers for students who would like to be invlolved in the tech industry. We provide guidance through experienced professors and students, along with events that showcase important skills."
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -61,7 +61,7 @@ paginate     = 10
 
 [languages]
   [languages.en]
-    title = "STACC"
+    title = "The Science Technology And Computing Club"
     subtitle = ""
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
