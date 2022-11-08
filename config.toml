@@ -42,6 +42,18 @@ paginate     = 10
     # Set to a valid CSS time value to change the animation duration, "0s" to disable.
     logoCursorAnimate  = "1s"
 
+[params.footer]
+    trademark = true
+    rss = false
+    copyright = false
+    author = true
+
+    topText = []
+    bottomText = [
+      "The Science Technology And Computing Club",
+      "TAMUC at RELLIS"
+    ]
+
 [taxonomies]
     category = "blog"
     tag      = "tags"
