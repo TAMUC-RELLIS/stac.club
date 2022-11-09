@@ -54,6 +54,11 @@ paginate     = 10
       "TAMUC at RELLIS"
     ]
 
+# [params.portrait]
+#    path     = "/images/OFFICIAL_green_logo.PNG"
+#    alt      = "Logo"
+#    maxWidth = "500px"
+
 [taxonomies]
     category = "blog"
     tag      = "tags"
