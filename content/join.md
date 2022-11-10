@@ -1,5 +1,3 @@
-## Join the Discord server using this QR code, or by clicking the link below!
+# Join the Discord server below!
 
-{{< image src="/images/STACC_Discord_Server-_square.png" alt="stacc qrcode" position="center" style="height: 50%; width: 50%;">}}
-
-## https://discord.com/invite/ZezFjXPkNa
+<iframe src="https://discord.com/widget?id=773274290832408596&theme=dark" width="350" height="350" allowtransparency="true" frameborder="0" margin-top="5em" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
