@@ -1,4 +1,4 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
+baseURL = 'https://stac.club/'
 title        = "The Science And Technology Club"
 languageCode = "en-us"
 theme        = "hugo-theme-hello-friend-ng-master"
