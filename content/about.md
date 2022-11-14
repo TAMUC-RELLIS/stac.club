@@ -17,8 +17,7 @@ aliases = ["about-us","about-stacc"]
 The Science Technology and Computing Club (STACC) will indiscriminately provide a resource for student members within the TAMU System RELLIS Campus to develop social interaction confidence, basic through advanced computer knowledge and information technology expertise.
 
 -----------------------------------------------------------------------------------------------------
-
-We are focused on creating a place for students to collaborate and improve in whatever field they want to pursue in the industry. From resume workshops, guest speakers, and even mock interviews, we aim to provide a diverse array of meetings and resources to achieve this goal. 
+STACC breaks down barriers for students who would like to be invlolved in the tech industry. We provide guidance through experienced professors and students, along with events that showcase important skills. We are focused on creating a place for students to collaborate and improve in whatever field they want to pursue. From resume workshops, guest speakers, technical workshops, and even mock interviews, we aim to provide a diverse array of meetings and resources to achieve this goal. 
 
 STACC meetings are held at the TAMUS RELLIS campus, but we welcome students from <strong style="color: #07a500;">everywhere</strong>!
 
