@@ -10,13 +10,13 @@ aliases = ["ctf","stacc-ctf"]
  <!-- <center><h1 style="font-size: 50px;"><a style="color: #07a500;" href="https://ctf.stac.club/">Click here to register!</a></h1></center> -->
 
 
-<center> <h1 style="font-size: 30px; text-align: center;"> What is a CTF? </h1></center>
+<center> <h1 style="font-size: 30px;"> What is a CTF? </h1></center>
 
-A CTF, or a Capture The Flag, is a friendly competition with a collection of cyber security challenges. Flags are secretly hidden in purposefully-vulnerable programs or websites. Competitors try to steal flags either from the organizers (jeopardy-style CTFs) or from other competitors (attack/defense-style CTFs). The aim of a CTF is to challenge its contestants and to help them improve their skills in cyber security. The CTF that we are holding is a jeapordy style CTF meant to be for all skill levels, so if you are a beginner don’t be shy to participate!
+A CTF, or a Capture The Flag, is a friendly competition consisting of a collection of cyber security challenges. Flags are secretly hidden in these specially designed challenges. Competitors try to steal flags either from the organizers (jeopardy-style CTFs) or from other competitors (attack/defense-style CTFs). The aim of a CTF is to challenge its contestants and to help them improve their skills in cyber security. The CTF that we are holding is a jeopardy style CTF that's great for beginners and intermediate students in the field, so if you are a beginner don’t be shy to participate!
 
-  For more information on CTFs, <a style="color: #07a500;" href="https://ctfd.io/whats-a-ctf/">Click here.</a>
+For more information on CTFs, <a style="color: #07a500;" href="https://ctfd.io/whats-a-ctf/">Click here.</a>
 
- Resources to get started on CTFs:
+Resources to get started on CTFs:
 
 - <a style="color: #07a500;" href="https://picoctf.org/">PicoCTF</a>
 - <a style="color: #07a500;" href="https://tryhackme.com/">TryHackMe</a>
