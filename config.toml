@@ -1,5 +1,5 @@
 baseURL = 'https://stac.club/'
-title        = "The Science And Technology Club"
+title        = "Science Technology And Computing Club"
 languageCode = "en-us"
 theme        = "hugo-theme-hello-friend-ng-master"
 paginate     = 10
@@ -11,7 +11,7 @@ paginate     = 10
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "STACC breaks down barriers for students who would like to be invlolved in the tech industry. We provide guidance through experienced professors and students, along with events that showcase important skills."
+  homeSubtitle = "The Science Technology and Computing Club (STACC) will indiscriminately provide a resource for student members within the TAMU System RELLIS Campus to develop social interaction confidence, basic through advanced computer knowledge and information technology expertise."
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -30,6 +30,9 @@ paginate     = 10
   [[params.social]]
     name = "instagram"
     url  = "https://instagram.com/staccxrellis"
+  [[params.social]]
+    name = "discord"
+    url  = "https://discord.gg/uzxc543peQ"
 
 [params.logo]
     logoMark     = ">"
@@ -46,13 +49,10 @@ paginate     = 10
     trademark = true
     rss = false
     copyright = false
-    author = true
+    author = false
 
-    topText = []
-    bottomText = [
-      "The Science Technology And Computing Club",
-      "TAMUC at RELLIS"
-    ]
+    topText = ["Science Technology And Computing Club"]
+    bottomText = ["TAMUC at RELLIS"]
 
 # [params.portrait]
 #    path     = "/images/OFFICIAL_green_logo.PNG"
@@ -66,7 +66,7 @@ paginate     = 10
 
 [languages]
   [languages.en]
-    title = "The Science Technology And Computing Club"
+    title = "Science Technology And Computing Club"
     subtitle = ""
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
@@ -74,10 +74,6 @@ paginate     = 10
 
   # And you can even create generic menu
   [main]
-    [[menu.main]]
-      identifier = "join"
-      name       = "Join STACC"
-      url        = "/join"
     [[menu.main]]
       identifier = "about"
       name       = "About"
