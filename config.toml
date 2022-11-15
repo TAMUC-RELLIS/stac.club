@@ -1,5 +1,5 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
-title        = "STACC"
+baseURL = 'https://stac.club/'
+title        = "Science Technology And Computing Club"
 languageCode = "en-us"
 theme        = "hugo-theme-hello-friend-ng-master"
 paginate     = 10
@@ -11,7 +11,7 @@ paginate     = 10
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "Our goal at STACC is to break down barriers for students who would like to be invlolved in the tech industry. We provide guidance through experienced professors and students, along with events that showcase important skills."
+  homeSubtitle = "The Science Technology and Computing Club (STACC) will indiscriminately provide a resource for student members within the TAMU System RELLIS Campus to develop social interaction confidence, basic through advanced computer knowledge and information technology expertise."
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -27,6 +27,13 @@ paginate     = 10
   keywords = "homepage, blog"
   images = [""]
 
+  [[params.social]]
+    name = "instagram"
+    url  = "https://instagram.com/staccxrellis"
+  [[params.social]]
+    name = "discord"
+    url  = "https://discord.gg/uzxc543peQ"
+
 [params.logo]
     logoMark     = ">"
     logoText     = "$ cd STACC/"
@@ -38,6 +45,20 @@ paginate     = 10
     # Set to a valid CSS time value to change the animation duration, "0s" to disable.
     logoCursorAnimate  = "1s"
 
+[params.footer]
+    trademark = true
+    rss = false
+    copyright = false
+    author = false
+
+    topText = ["Science Technology And Computing Club"]
+    bottomText = ["TAMUC at RELLIS"]
+
+# [params.portrait]
+#    path     = "/images/OFFICIAL_green_logo.PNG"
+#    alt      = "Logo"
+#    maxWidth = "500px"
+
 [taxonomies]
     category = "blog"
     tag      = "tags"
@@ -45,7 +66,7 @@ paginate     = 10
 
 [languages]
   [languages.en]
-    title = "STACC"
+    title = "Science Technology And Computing Club"
     subtitle = ""
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
@@ -54,18 +75,14 @@ paginate     = 10
   # And you can even create generic menu
   [main]
     [[menu.main]]
-      identifier = "join"
-      name       = "Join STACC"
-      url        = "/join"
-    [[menu.main]]
       identifier = "about"
       name       = "About"
       url        = "about/"
     [[menu.main]]
       identifier = "ctf"
       name       = "CTF"
-      url        = "https://ctf.stac.club/"
+      url        = "ctf/"
 
-  [[params.social]]
-    name = "instagram"
-    url  = "https://instagram.com/staccxrellis"
+# Allows for html tag rendering in markdown files
+[markup.goldmark.renderer]
+  unsafe = true
