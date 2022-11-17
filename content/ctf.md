@@ -24,7 +24,12 @@ Resources to get started on CTFs:
 ---------------------------------------------------------------
 <center><h1 style="font-size: 25px">The official STACC CTF event will be held on the weekend of  <strong style="color: #07a500;">November 18th.</strong></h1></center>
 
-<!-- ----------------------------------------------------------
+---------------------------------------------------------------
+
+<center><a style="color: #07a500;" href="https://ctf.stac.club/"><h1 style="font-size: 25px;">Click here to register!</h1></a></center>
+
+---------------------------------------------------------------
+
 
  <center><h1 style="font-size: 25px"> How to register for the STACC CTF! </h1></center>
 
@@ -36,10 +41,10 @@ Click on the <strong style="color: #07a500;">Register</strong> button on the top
 
 ## Enter your credentials.
 
-{{< image src="/images/registerscreenshot.png" alt="register" position="center">}}
+{{< image src="/images/register_screenshot_final.jpg" alt="register" position="center">}}
 
 Choose your desired username and password.
 Students <strong style="color: #07a500;">must</strong> register with either a Blinn or TAMUC email address.
 
-Once you have registered, you will be sent a <strong style="color: #07a500;">confirmation email</strong>. After confirming your email, you will be redirected back to the CTF site. -->
+Once you have registered, you will be sent a <strong style="color: #07a500;">confirmation email</strong>. After confirming your email, you will be redirected back to the CTF site.
 
