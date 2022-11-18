@@ -41,10 +41,10 @@ Click on the <strong style="color: #07a500;">Register</strong> button on the top
 
 ## Enter your credentials.
 
-{{< image src="/images/register_screenshot_final.jpg" alt="register" position="center">}}
+{{< image src="/images/register_screenshot_1.jpg" alt="register" position="center">}}
 
 Choose your desired username and password.
-Students <strong style="color: #07a500;">must</strong> register with either a Blinn or TAMUC email address.
+Students <strong style="color: #07a500;">must</strong> register with either a Blinn, TAMU, or TAMUC email address.
 
 Once you have registered, you will be sent a <strong style="color: #07a500;">confirmation email</strong>. After confirming your email, you will be redirected back to the CTF site.
 
